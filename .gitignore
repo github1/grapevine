@@ -1,3 +1,4 @@
 *.*rc
+.idea
 node_modules
 npm_debug.log
